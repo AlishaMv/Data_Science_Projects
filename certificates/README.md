@@ -20,6 +20,6 @@ ______________________________
 2. Жерон Орельен: Прикладное машинное обучение с помощью Scikit-Learn и TensorFlow. Концепции, инструменты и техники для создания интеллектуальных систем
 3. Савельев Владимир: Статистика и котики
 
-Тренировки по алгоритмам: https://yandex.ru/yaintern/algorithm-training
-Программа для самостоятельного обучения Data science: https://pikabu.ru/story/programma_obucheniya_data_science_dlya_samostoyatelnogo_izucheniya_7526884
-Упражнения по SQL: https://sql-ex.ru/
+[Программа для самостоятельного обучения Data science](https://pikabu.ru/story/programma_obucheniya_data_science_dlya_samostoyatelnogo_izucheniya_7526884)  
+[Тренировки по алгоритмам](https://yandex.ru/yaintern/algorithm-training)  
+[Упражнения по SQL](https://sql-ex.ru/)  
