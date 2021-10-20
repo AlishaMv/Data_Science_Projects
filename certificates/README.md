@@ -2,7 +2,8 @@
 
 #### ⚡ Основной: 
 **(Яндекс.Практикум)**  
-[Специалист по Data Science]()
+[Специалист по Data Science](https://github.com/AlishaMv/Data_Science_Projects/blob/main/certificates/A%20Medvedeva%20-%20Data%20Science%20(Yandex.Practicum).pdf)  
+[Certificate of Completion of the Data Scientist Professional Training Course](https://github.com/AlishaMv/Data_Science_Projects/blob/main/certificates/A%20Medvedeva%20-%20Data%20Science%20(Yandex.Practicum)eng.pdf)
 
 _______________________________________________
 
