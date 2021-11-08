@@ -32,5 +32,5 @@ ______________________________
 [Программа для самостоятельного обучения Data science](https://pikabu.ru/story/programma_obucheniya_data_science_dlya_samostoyatelnogo_izucheniya_7526884)  
 [Тренировки по алгоритмам](https://yandex.ru/yaintern/algorithm-training)  
 [Упражнения по SQL](https://sql-ex.ru/)  
-[Интерактивный тренажер по SQL](https://stepik.org/course/63054/syllabus?auth=login)
+[Интерактивный тренажер по SQL](https://stepik.org/course/63054/syllabus?auth=login)  
 [Вероятность и статистика с Глебом Михайловым](https://www.youtube.com/playlist?list=PLQJ7ptkRY-xbHLLI66KdscKp_FJt0FsIi)
