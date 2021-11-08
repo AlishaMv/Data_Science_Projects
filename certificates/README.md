@@ -15,7 +15,7 @@ _______________________________________________
 4. [Intro to SQL - Kaggle Certificate](https://github.com/AlishaMv/Data_Science_Projects/blob/main/certificates/Alina%20Medvedeva%20-%20Intro%20to%20SQL.png)
 
 #### ⚡ Дополнительно:
-6. [SQL - Certificate](https://github.com/AlishaMv/Data_Science_Projects/blob/main/certificates/stepik-certificate-SQL.pdf)
+1. [SQL - Certificate](https://github.com/AlishaMv/Data_Science_Projects/blob/main/certificates/stepik-certificate-SQL.pdf)
 
 ______________________________
 
