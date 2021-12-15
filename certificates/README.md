@@ -16,7 +16,7 @@ _______________________________________________
 
 #### ⚡ Дополнительно:
 1. [SQL - Certificate](https://github.com/AlishaMv/Data_Science_Projects/blob/main/certificates/stepik-certificate-SQL.pdf)
-
+2. [Time Series Forecasting with Python 7-Day Mini-Course](https://machinelearningmastery.com/time-series-forecasting-python-mini-course/?utm_source=drip&utm_medium=email&utm_campaign=TSFWP+Mini-Course&utm_content=Day+1%3A+Time+Series+as+Supervised+Learning)
 ______________________________
 
 #### Книги и ссылки:
