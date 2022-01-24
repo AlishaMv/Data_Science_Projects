@@ -34,5 +34,5 @@ ______________________________
 [Тренировки по алгоритмам](https://yandex.ru/yaintern/algorithm-training)  
 [Упражнения по SQL](https://sql-ex.ru/)  
 [Интерактивный тренажер по SQL](https://stepik.org/course/63054/syllabus?auth=login) 
-[Оконные функции SQL](https://stepik.org/course/95367/promo#toc)
+[Оконные функции SQL](https://stepik.org/course/95367/promo#toc)  
 [Вероятность и статистика с Глебом Михайловым](https://www.youtube.com/playlist?list=PLQJ7ptkRY-xbHLLI66KdscKp_FJt0FsIi)
